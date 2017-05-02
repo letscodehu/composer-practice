@@ -1,0 +1,16 @@
+{
+    "name": "training360/yellowroad",
+    "description": "Dummy project",
+    "version": "2.3.4",
+    "type": "project",
+    "require": {
+        "nikic/fast-route": "^1.2",
+        "symfony/templating" : "^3.0"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+Post with id: <?php echo $id ?>
